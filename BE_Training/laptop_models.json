@@ -1,0 +1,26 @@
+[
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "Year": "2021",
+    "Price": "1999"
+  },
+  {
+    "Brand": "Dell",
+    "Model": "XPS 15",
+    "Year": "2022",
+    "Price": "1799"
+  },
+  {
+    "Brand": "HP",
+    "Model": "Spectre x360",
+    "Year": "2021",
+    "Price": "1499"
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad X1 Carbon",
+    "Year": "2023",
+    "Price": "1799"
+  }
+]
